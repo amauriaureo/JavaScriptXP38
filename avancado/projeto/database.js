@@ -3,7 +3,7 @@ const livros = [
         id: 1,
         nome: "Digital Minimalism",
         autor:"Cal Newport",
-        categoria: "Produtividade e estilo de vida",
+        categoria: "Produtividade",
         paginas: 254,
         recomenda: false,
         leu: false
@@ -12,16 +12,16 @@ const livros = [
         id: 2,
         nome: "O Genocídio do negro brasileiro",
         autor:"Abdias do Nascimento",
-        categoria: "História brasileira",
+        categoria: "Historia brasileira",
         paginas: 254,
         recomenda: false,
         leu: false
     },
     { 
         id: 3,
-        nome: "As veias abertas da américa latina",
+        nome: "As veias abertas da america latina",
         autor:"Eduardo galeano",
-        categoria: "Américas",
+        categoria: "Americas",
         paginas: 400,
         recomenda: false,
         leu: false
